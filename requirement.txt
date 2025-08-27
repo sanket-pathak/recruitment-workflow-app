@@ -1,5 +1,5 @@
 streamlit
-langchain
+langchain>=0.2.0
 langchain-core
 langchain-community
 langgraph
